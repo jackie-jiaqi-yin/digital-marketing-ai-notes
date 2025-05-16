@@ -62,7 +62,7 @@ python ai-notes/exam-question-generation.py "path/to/transcript.docx"
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.10+
 - Azure OpenAI API access
 - Required Python packages (see requirements.txt)
 
