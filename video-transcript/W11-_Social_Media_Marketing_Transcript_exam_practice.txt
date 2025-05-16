@@ -1,0 +1,212 @@
+### Graduate-Level Exam: Social Media Marketing – MGT 6311
+
+#### **Multiple Choice Questions**
+---
+
+#### **Basic Understanding of Concepts and Terminology (40%)**
+1. What is the primary emotional benefit that drives social media engagement among users?  
+   A) Functional actions like retweeting and liking posts  
+   B) Economic incentives and discounts  
+   C) Connecting with others and transmitting ideas  
+   D) Navigating technical features of social platforms  
+
+---
+
+2. Which social media platform is identified as the leading channel for both B2B and B2C marketing?  
+   A) YouTube  
+   B) Facebook  
+   C) LinkedIn  
+   D) Instagram  
+
+---
+
+3. What percentage of social media time is spent on mobile devices, according to the transcript?  
+   A) 30%  
+   B) 50%  
+   C) 60%  
+   D) 80%  
+
+---
+
+4. What is the significance of "RFM" variables in social media marketing?  
+   A) They measure Return on Financial Metrics.  
+   B) They define customer personas based on Recency, Frequency, and Monetary value.  
+   C) They help identify competitors' strategies in social media.  
+   D) They categorize platforms based on user preferences.  
+
+---
+
+5. Why did Facebook’s algorithm change in 2016 impact organic reach for brands?  
+   A) It blocked ads from appearing on user feeds.  
+   B) It prioritized posts from individuals over organizations.  
+   C) It removed the ability to post videos.  
+   D) It stopped showing posts from organizations entirely.  
+
+---
+
+#### **Intermediate Application (30%)**
+6. A marketer is tasked with increasing brand trust and credibility through social media. Which approach is most aligned with this goal?  
+   A) Launching paid ads for product discounts  
+   B) Building thought leadership through content creation  
+   C) Running contests to increase follower count  
+   D) Focusing only on pre-sale customer engagement  
+
+---
+
+7. If three out of four people use social media to research brands, what should the marketer prioritize to capitalize on this behavior?  
+   A) Increasing ad revenue  
+   B) Ensuring product-centric posts dominate social channels  
+   C) Creating educational and trustworthy content about products and services  
+   D) Reducing post frequency to avoid oversaturation  
+
+---
+
+8. Which marketing tool would be most effective for analyzing brand sentiment and mentions on social media?  
+   A) Google Analytics  
+   B) Meltwater  
+   C) Canva  
+   D) Shopify  
+
+---
+
+9. When evaluating the success of Taco Bell's Snapchat campaign, what was the most critical metric that demonstrated engagement?  
+   A) Cost per view  
+   B) Number of ads purchased  
+   C) Duration of user interaction with the ad  
+   D) Increase in store visits  
+
+---
+
+10. What should a company focus on when designing a social media strategy that targets millennials?  
+   A) Using only traditional platforms like Facebook and LinkedIn  
+   B) Prioritizing mobile-first experiences and interactive content  
+   C) Focusing solely on demographic segmentation  
+   D) Avoiding paid advertising to maintain authenticity  
+
+---
+
+#### **Advanced Analysis (30%)**
+11. What was the key factor behind the success of Oreo’s Super Bowl tweet?  
+   A) The use of cutting-edge technology  
+   B) Real-time responsiveness and clever content during an unforeseen moment  
+   C) The high budget allocated to the campaign  
+   D) The inclusion of multiple legal disclaimers  
+
+---
+
+12. Based on the transcript, what is the biggest challenge associated with creating compelling social media content?  
+   A) Posting frequently across all platforms  
+   B) Balancing transparency with negative feedback  
+   C) Grabbing attention and holding it within the limited attention span of users  
+   D) Avoiding multimedia content due to high production costs  
+
+---
+
+13. Why is segmentation important in social media marketing?  
+   A) It reduces the marketer's workload by focusing only on one audience.  
+   B) It allows brands to post generic content that appeals to all demographics.  
+   C) It helps isolate audience groups based on their engagement, demographics, and behaviors.  
+   D) It encourages brands to use fewer platforms for efficiency.  
+
+---
+
+14. Why is monitoring negative comments on social media considered an opportunity for brands?  
+   A) Negative comments increase reach.  
+   B) Addressing complaints can build brand loyalty if resolved satisfactorily.  
+   C) Ignoring negative comments avoids conflict.  
+   D) Negative comments rarely impact brand reputation.  
+
+---
+
+15. What is a critical best practice when revisiting a social media strategy?  
+   A) Conducting biannual reviews of user behaviors and interests  
+   B) Avoiding experimentation to maintain consistency  
+   C) Focusing on one platform exclusively  
+   D) Prioritizing paid campaigns over organic efforts  
+
+---
+
+#### **Answer Key with Explanations**
+---
+
+1. **C** – Emotional benefits like transmitting ideas and connectedness are core drivers of user actions.  
+   **Topic:** Consumer behavior insights  
+   **Difficulty:** Basic  
+
+2. **B** – Facebook is identified as the leading platform for both B2B and B2C marketing.  
+   **Topic:** Platform prioritization  
+   **Difficulty:** Basic  
+
+3. **C** – Sixty percent of social media usage occurs on mobile devices.  
+   **Topic:** Consumer behavior metrics  
+   **Difficulty:** Basic  
+
+4. **B** – RFM stands for Recency, Frequency, and Monetary value, which helps define customer personas.  
+   **Topic:** Persona creation  
+   **Difficulty:** Basic  
+
+5. **B** – Facebook’s algorithm prioritized posts from individuals over organizations, reducing organic reach.  
+   **Topic:** Platform algorithm changes  
+   **Difficulty:** Basic  
+
+6. **B** – Thought leadership content builds trust and credibility.  
+   **Topic:** Social media benefits  
+   **Difficulty:** Intermediate  
+
+7. **C** – Educational and trustworthy content aligns with the behavior of consumers researching brands.  
+   **Topic:** Consumer engagement strategies  
+   **Difficulty:** Intermediate  
+
+8. **B** – Meltwater is a specialized tool for analyzing brand mentions and sentiment.  
+   **Topic:** Analytical tools  
+   **Difficulty:** Intermediate  
+
+9. **C** – User interaction duration (24 seconds on average) demonstrated strong engagement for Taco Bell.  
+   **Topic:** Metric interpretation  
+   **Difficulty:** Intermediate  
+
+10. **B** – Millennials prioritize mobile-first experiences and interactive content.  
+   **Topic:** Target audience strategies  
+   **Difficulty:** Intermediate  
+
+11. **B** – Oreo’s success stemmed from real-time responsiveness and clever content during the Super Bowl blackout.  
+   **Topic:** Case analysis  
+   **Difficulty:** Advanced  
+
+12. **C** – The average attention span of users is 8 seconds, making attention retention a critical challenge.  
+   **Topic:** Content creation challenges  
+   **Difficulty:** Advanced  
+
+13. **C** – Segmentation isolates audience groups for targeted strategies based on engagement and demographics.  
+   **Topic:** Audience segmentation  
+   **Difficulty:** Advanced  
+
+14. **B** – Resolving complaints builds loyalty, as customers appreciate thoughtful responses.  
+   **Topic:** Brand reputation management  
+   **Difficulty:** Advanced  
+
+15. **A** – Biannual reviews ensure strategies align with evolving user behaviors and interests.  
+   **Topic:** Strategy evaluation  
+   **Difficulty:** Advanced  
+
+---
+
+#### **Topic and Difficulty Level Distribution**
+1. **Consumer behavior insights** – Basic  
+2. **Platform prioritization** – Basic  
+3. **Consumer behavior metrics** – Basic  
+4. **Persona creation** – Basic  
+5. **Platform algorithm changes** – Basic  
+6. **Social media benefits** – Intermediate  
+7. **Consumer engagement strategies** – Intermediate  
+8. **Analytical tools** – Intermediate  
+9. **Metric interpretation** – Intermediate  
+10. **Target audience strategies** – Intermediate  
+11. **Case analysis** – Advanced  
+12. **Content creation challenges** – Advanced  
+13. **Audience segmentation** – Advanced  
+14. **Brand reputation management** – Advanced  
+15. **Strategy evaluation** – Advanced  
+
+---
+This exam tests knowledge, comprehension, application, and analysis skills, providing a well-rounded assessment of students' mastery of social media marketing concepts.

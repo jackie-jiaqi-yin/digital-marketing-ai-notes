@@ -1,0 +1,146 @@
+### Graduate-Level Exam: Mobile Marketing (MGT 6311)
+
+#### **Multiple Choice Questions**
+
+---
+
+**Question 1:**  
+Which of the following is a reason why mobile devices are preferred over desktops or laptops for Internet access in regions with limited discretionary income?  
+A) Faster processing speeds compared to desktops  
+B) Higher resolution displays on mobile devices  
+C) Versatility and lower price points of mobile devices  
+D) Limited availability of software on desktops  
+
+**Question 2:**  
+The Nielsen study highlighted that the average U.S. smartphone user accesses how many mobile applications per month?  
+A) 15  
+B) 27  
+C) 40  
+D) 50  
+
+**Question 3:**  
+Mobile users typically expect web pages to load within a specific threshold of time. What is this threshold?  
+A) 1 second  
+B) 2 seconds  
+C) 3 seconds  
+D) 5 seconds  
+
+**Question 4:**  
+Which of the following technologies is an example of proximity-based mobile marketing?  
+A) Augmented Reality (AR)  
+B) Search Engine Optimization (SEO)  
+C) Bluetooth Beacons  
+D) QR Codes  
+
+**Question 5:**  
+What percentage of mobile users' time is spent within applications on their devices?  
+A) 55%  
+B) 75%  
+C) 90%  
+D) 95%  
+
+---
+
+**Question 6:**  
+What key characteristic of mobile phones enables marketers to offer personalized content and experiences?  
+A) Most phones are shared across multiple users  
+B) Mobile phones are personal devices used by a single individual  
+C) Advanced hardware capabilities of mobile phones  
+D) Integration with desktop devices  
+
+**Question 7:**  
+Which payment method relies on the SIM card in a mobile phone for processing payments?  
+A) Google Pay  
+B) Payment through the user’s mobile network  
+C) Venmo  
+D) QR Code Scanning  
+
+**Question 8:**  
+How can marketers use mobile devices to connect activity across multiple devices during the buyer journey?  
+A) Tracking social media profiles only  
+B) Utilizing attribution modeling to link actions to individual users  
+C) Limiting tracking to mobile phones  
+D) Relying solely on payment data  
+
+**Question 9:**  
+What is the primary purpose of user stories in mobile app development?  
+A) To outline technical requirements for backend coding  
+B) To identify user goals and specify the value users seek  
+C) To define the competition’s app features  
+D) To determine the app's debugging process  
+
+**Question 10:**  
+If a company has constrained resources, what should guide the decision to develop an app for iOS or Android?  
+A) Availability of AR/VR features  
+B) Social media engagement insights  
+C) Web analytics data on mobile visitor usage  
+D) Budget allocation for advertising  
+
+---
+
+**Question 11:**  
+Which of the following technologies enables consumers to make contactless payments without near-field communication (NFC)?  
+A) Apple Pay  
+B) QR Codes  
+C) Augmented Reality  
+D) Bluetooth Beacons  
+
+**Question 12:**  
+Which mobile channel allows brands to send multimedia elements like images and videos alongside text?  
+A) SMS  
+B) MMS  
+C) Push Notifications  
+D) AR-enabled apps  
+
+**Question 13:**  
+What is a critical best practice for avoiding a negative brand perception in mobile marketing campaigns?  
+A) Using non-personalized content  
+B) Sending unsolicited messages  
+C) Ensuring opt-in communication from consumers  
+D) Limiting relevance in promotional offers  
+
+**Question 14:**  
+The use of responsive design in mobile websites ensures:  
+A) Faster page load times on desktops  
+B) Consistent UX across different device types and screen sizes  
+C) Increased app downloads  
+D) Exclusive compatibility with Android devices  
+
+**Question 15:**  
+Which of the following best describes the role of geo-targeting in mobile marketing?  
+A) Providing location-specific messages to engage consumers  
+B) Offering universal promotions across all regions  
+C) Limiting mobile marketing to urban areas  
+D) Tracking device usage patterns globally  
+
+---
+
+### **Answer Key and Explanations**
+
+1. **C** - Mobile devices are versatile and have lower price points, making them more accessible in regions with limited discretionary income. (Topic: Mobile Usage Insights, Difficulty: Basic)  
+2. **B** - The average U.S. smartphone user accesses 27 mobile apps per month, as per the Nielsen study. (Topic: Mobile Usage Insights, Difficulty: Basic)  
+3. **C** - Consumers expect web pages to load within a 3-second threshold, emphasizing the importance of speed in user experience. (Topic: Mobile Usage Insights, Difficulty: Basic)  
+4. **C** - Bluetooth Beacons are an example of proximity-based marketing, sending notifications to nearby devices. (Topic: Mobile Channels, Difficulty: Intermediate)  
+5. **C** - 90% of mobile users' time is spent within applications, showcasing the importance of app-based strategies. (Topic: Mobile Usage Insights, Difficulty: Basic)  
+
+6. **B** - Mobile phones are personal devices used by single individuals, enabling personalized marketing. (Topic: Key Aspects of Mobile Phones, Difficulty: Basic)  
+7. **B** - SIM cards allow payments to be processed through the user’s mobile network. (Topic: Key Aspects of Mobile Phones, Difficulty: Intermediate)  
+8. **B** - Attribution modeling connects activity across devices at the individual level, improving customer insights. (Topic: Key Aspects of Mobile Phones, Difficulty: Advanced)  
+9. **B** - User stories clarify user goals and define the value users seek in mobile apps. (Topic: Mobile Application Considerations, Difficulty: Intermediate)  
+10. **C** - Web analytics data should guide the decision to prioritize iOS or Android development. (Topic: Mobile Application Considerations, Difficulty: Intermediate)  
+
+11. **B** - QR codes enable contactless payments without NFC, making them popular in regions with limited infrastructure. (Topic: Mobile Channels, Difficulty: Intermediate)  
+12. **B** - MMS enables brands to send multimedia elements alongside text messages. (Topic: Mobile Channels, Difficulty: Basic)  
+13. **C** - Opt-in communication ensures compliance and avoids negative brand perception. (Topic: Best Practices, Difficulty: Intermediate)  
+14. **B** - Responsive design ensures consistent user experience across devices and screen sizes. (Topic: Mobile Channels, Difficulty: Intermediate)  
+15. **A** - Geo-targeting provides location-specific messages, enhancing immediate brand engagement. (Topic: Best Practices, Difficulty: Advanced)  
+
+---
+
+### **Summary**
+
+- **Basic Understanding of Concepts and Terminology:** Questions 1, 2, 3, 5, 6, 9, 12  
+- **Intermediate Application:** Questions 4, 7, 8, 10, 13, 14  
+- **Advanced Analysis:** Questions 8, 11, 15  
+
+This exam ensures students demonstrate knowledge comprehension, real-world application, and analytical thinking across mobile marketing topics.

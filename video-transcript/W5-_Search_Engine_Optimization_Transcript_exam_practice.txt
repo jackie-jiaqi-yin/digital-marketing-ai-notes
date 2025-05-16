@@ -1,0 +1,155 @@
+Question 1:
+Which of the following best describes Search Engine Optimization (SEO)?
+A) A paid digital marketing strategy to improve website visibility
+B) A process aimed at improving visibility and increasing traffic through unpaid methods
+C) A method of buying ad space on search engines
+D) A technique to increase the number of social media followers
+
+Question 2:
+What is the primary difference between paid search and organic search?
+A) Paid search results are influenced by social media shares
+B) Organic search results appear above paid search results in SERPs
+C) Paid search involves working dollars, while organic search involves non-working dollars
+D) Organic search results are instant, while paid search results take months to show impact
+
+Question 3:
+Why is it important for marketers to claim their business locations through Google My Business?
+A) To ensure the business appears in paid search results
+B) To enhance social media presence
+C) To appear in local search results and on Google Maps
+D) To increase the number of backlinks to the website
+
+Question 4:
+Which of the following is NOT an on-page SEO factor?
+A) Keyword density
+B) Meta tags
+C) External links
+D) Site performance
+
+Question 5:
+Why is it important to use keywords in the alt tags of images?
+A) To improve the visual appeal of the website
+B) To enhance web accessibility and help search engines understand the image
+C) To reduce the file size of the image
+D) To increase social media shares of the image
+
+Question 6:
+Which of the following HTML tags is most important for indicating the main topic of a web page?
+A) <meta>
+B) <h1>
+C) <img>
+D) <div>
+
+Question 7:
+What is the significance of the mobilegeddon update released by Google in 2015?
+A) It penalizes websites that do not have paid search ads
+B) It penalizes websites not optimized for mobile devices in search rankings
+C) It prioritizes websites with a large number of social media followers
+D) It increases the importance of keyword density in search rankings
+
+Question 8:
+When optimizing a webpage, why is it important to consider the URL structure?
+A) To make the URL longer and more descriptive
+B) To separate words with underscores for better readability
+C) To ensure the URL reflects the site structure and includes relevant keywords
+D) To make the URL appear more complex and authoritative
+
+Question 9:
+Which of the following best practices can improve the likelihood of a webpage appearing as a featured snippet?
+A) Using multiple images without alt tags
+B) Creating long, detailed paragraphs without headings
+C) Structuring content to include questions and concise answers
+D) Avoiding the use of HTML tags
+
+Question 10:
+Which of the following is NOT a type of anchor text?
+A) Exact match anchor text
+B) Partial match anchor text
+C) Image alt text anchor
+D) Branded anchor text
+
+Question 11:
+Why is it important to have a fast-loading mobile website?
+A) To increase the number of paid search ads
+B) To improve user experience and SEO rankings
+C) To reduce the amount of content on the page
+D) To increase the number of social media shares
+
+Question 12:
+What is the purpose of social sharing buttons on a website?
+A) To increase the file size of the website
+B) To make it easy for users to share content across social networks
+C) To improve the visual design of the website
+D) To reduce the number of backlinks to the website
+
+Question 13:
+Why is it important to assess search volume during the keyword research process?
+A) To determine the length of the keywords
+B) To understand how frequently potential customers are searching for the terms
+C) To increase the file size of the webpage
+D) To reduce the competition for the keywords
+
+Question 14:
+Which of the following indicates a high-quality backlink?
+A) A link from a low-authority site
+B) A link using generic anchor text
+C) A link from a high-authority, relevant site
+D) A link with no anchor text
+
+Question 15:
+What should be considered when creating content to build backlinks?
+A) The content should be lengthy and difficult to read
+B) The content should be useful, entertaining, and easily found
+C) The content should have minimal text and no images
+D) The content should be hidden behind a paywall
+
+Answer Key:
+1. B) A process aimed at improving visibility and increasing traffic through unpaid methods
+2. C) Paid search involves working dollars, while organic search involves non-working dollars
+3. C) To appear in local search results and on Google Maps
+4. C) External links
+5. B) To enhance web accessibility and help search engines understand the image
+6. B) <h1>
+7. B) It penalizes websites not optimized for mobile devices in search rankings
+8. C) To ensure the URL reflects the site structure and includes relevant keywords
+9. C) Structuring content to include questions and concise answers
+10. C) Image alt text anchor
+11. B) To improve user experience and SEO rankings
+12. B) To make it easy for users to share content across social networks
+13. B) To understand how frequently potential customers are searching for the terms
+14. C) A link from a high-authority, relevant site
+15. B) The content should be useful, entertaining, and easily found
+
+Topic/Concept Tested:
+1. Core SEO concept - Understanding
+2. Difference between paid and organic search - Comprehension
+3. Local search and claiming business locations - Application
+4. On-page SEO factors - Knowledge
+5. Image optimization - Application
+6. HTML tags - Knowledge
+7. Google updates and mobile SEO - Analysis
+8. URL structure - Application
+9. Featured snippets - Application
+10. Types of anchor text - Knowledge
+11. Mobile website optimization - Analysis
+12. Social sharing buttons - Knowledge
+13. Keyword research - Analysis
+14. Quality backlinks - Evaluation
+15. Content creation for backlinks - Evaluation
+
+Difficulty Level:
+1. Basic
+2. Intermediate
+3. Intermediate
+4. Basic
+5. Intermediate
+6. Basic
+7. Advanced
+8. Intermediate
+9. Advanced
+10. Basic
+11. Advanced
+12. Basic
+13. Intermediate
+14. Advanced
+15. Advanced

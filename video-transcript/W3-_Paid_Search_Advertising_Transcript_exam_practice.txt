@@ -1,0 +1,138 @@
+Question #1:
+Which of the following statements best describes Pay Per Click (PPC) advertising?
+A) The advertiser pays a fixed fee regardless of clicks.
+B) The advertiser pays only for each click on their advert.
+C) The advertiser pays for each impression of their advert.
+D) The advertiser pays based on the duration their advert is displayed.
+
+Question #2:
+What does the Click Through Rate (CTR) measure in the context of paid search advertising?
+A) The number of clicks on a link divided by the number of impressions, expressed as a percentage.
+B) The total number of clicks on a link.
+C) The number of times an advert is displayed.
+D) The average position of an advert on the search engine results page.
+
+Question #3:
+Which component of a paid search ad is considered the most critical for capturing a user's attention?
+A) Description
+B) Display URL
+C) Headline
+D) Ad extensions
+
+Question #4:
+What is the primary purpose of a landing page in a paid search campaign?
+A) To increase the visibility of ads
+B) To provide a specific, relevant page that matches the user's search intent
+C) To display the company's homepage
+D) To track the number of impressions
+
+Question #5:
+Which match type in Google's AdWords platform allows the broadest range of search queries to trigger an ad?
+A) Exact match
+B) Phrase match
+C) Broad match
+D) Negative match
+
+Question #6:
+How does a broad match modifier improve the targeting of search ads?
+A) By ensuring ads only appear for exact matches of keywords
+B) By excluding certain keywords from triggering ads
+C) By refining which words must be included in the search query to trigger ads
+D) By increasing the range of synonyms and variations that trigger ads
+
+Question #7:
+What is the main advantage of using dynamic keyword insertion in search ads?
+A) It allows for more creative ad copy.
+B) It ensures the ad copy stays the same across all keywords.
+C) It automatically inserts the searcher's keyword into the ad, aligning more closely with their search intent.
+D) It reduces the cost per click for all ads.
+
+Question #8:
+Which of the following is NOT a component of Google's quality score for paid search ads?
+A) Keyword alignment 
+B) Ad copy relevance
+C) Landing page experience
+D) Product price
+
+Question #9:
+What is the primary goal of leveraging ad extensions in a paid search ad?
+A) To increase the cost of the ad
+B) To add more visual elements to the ad
+C) To provide additional information and increase the ad's relevance
+D) To decrease the ad's quality score
+
+Question #10:
+In the context of ad rank factors, what effect does a higher click-through rate (CTR) have on an ad’s performance?
+A) It decreases the cost per click (CPC).
+B) It increases the ad's quality score.
+C) It lowers the ad's maximum bid requirement.
+D) All of the above
+
+Question #11:
+When planning a paid search campaign, why is it important to consider the competitive nature of the keywords?
+A) To avoid copyright infringements
+B) To ensure keywords are not too common
+C) To understand the cost implications and effectiveness of targeting those keywords
+D) To limit the number of keywords used
+
+Question #12:
+If a company has a profit margin of 20% on a product with an average sale value of $100, and an average conversion rate of 5%, what is their break-even point for cost per click (CPC)?
+A) $1.00
+B) $1.20
+C) $5.00
+D) $10.00
+
+Question #13:
+Which of the following best describes a broad match keyword strategy?
+A) It targets only the exact search terms specified.
+B) It targets search terms that include the specified keywords in the same order.
+C) It targets search terms that include synonyms, variations, and related searches.
+D) It excludes certain keywords from triggering ads.
+
+Question #14:
+In which scenario would using phrase match keywords be most beneficial?
+A) When targeting a very broad audience
+B) When targeting searches that include the exact keywords in the exact order
+C) When targeting searches that contain the specified keywords along with additional words
+D) When excluding specific keywords from the search
+
+Question #15:
+What should a marketer do if their paid search campaign is unprofitable due to high cost per click (CPC)?
+A) Increase the budget significantly
+B) Reassess and target keywords with lower CPC and higher conversion rates
+C) Stop the campaign entirely
+D) Focus solely on organic search results
+
+Answer Key with Explanations:
+1. B) The advertiser pays only for each click on their advert. (Concept tested: Understanding core terminology, Difficulty: Basic)
+2. A) The number of clicks on a link divided by the number of impressions, expressed as a percentage. (Concept tested: Understanding metrics, Difficulty: Basic)
+3. C) Headline (Concept tested: Ad component importance, Difficulty: Basic)
+4. B) To provide a specific, relevant page that matches the user's search intent (Concept tested: Practical application, Difficulty: Intermediate)
+5. C) Broad match (Concept tested: Match type functionality, Difficulty: Basic)
+6. C) By refining which words must be included in the search query to trigger ads (Concept tested: Match type refinement, Difficulty: Intermediate)
+7. C) It automatically inserts the searcher's keyword into the ad, aligning more closely with their search intent. (Concept tested: Practical application, Difficulty: Intermediate)
+8. D) Product price (Concept tested: Quality score components, Difficulty: Basic)
+9. C) To provide additional information and increase the ad's relevance (Concept tested: Ad strategy evaluation, Difficulty: Intermediate)
+10. D) All of the above (Concept tested: Ad rank factors, Difficulty: Intermediate)
+11. C) To understand the cost implications and effectiveness of targeting those keywords (Concept tested: Campaign planning, Difficulty: Intermediate)
+12. A) $1.00 (Concept tested: Metric interpretation, Difficulty: Advanced)
+13. C) It targets search terms that include synonyms, variations, and related searches. (Concept tested: Match type functionality, Difficulty: Basic)
+14. C) When targeting searches that contain the specified keywords along with additional words (Concept tested: Match type functionality, Difficulty: Intermediate)
+15. B) Reassess and target keywords with lower CPC and higher conversion rates (Concept tested: Strategy evaluation, Difficulty: Advanced)
+
+Topic/Concept Tested and Difficulty Level:
+1. Understanding core terminology - Basic
+2. Understanding metrics - Basic
+3. Ad component importance - Basic
+4. Practical application - Intermediate
+5. Match type functionality - Basic
+6. Match type refinement - Intermediate
+7. Practical application - Intermediate
+8. Quality score components - Basic
+9. Ad strategy evaluation - Intermediate
+10. Ad rank factors - Intermediate
+11. Campaign planning - Intermediate
+12. Metric interpretation - Advanced
+13. Match type functionality - Basic
+14. Match type functionality - Intermediate
+15. Strategy evaluation - Advanced

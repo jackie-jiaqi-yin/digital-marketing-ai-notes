@@ -1,0 +1,138 @@
+Question 1:
+Which of the following statements is true about programmatic ad buying?
+A) Programmatic ad buying is the complete automation of the ad buying process.
+B) Programmatic ad buying requires manual preparation of insertion orders.
+C) Programmatic ad buying allows more time for ad optimization and improvement.
+D) Programmatic ad buying is only used for traditional advertising channels.
+
+Question 2:
+According to the transcript, which advertising channel has historically been the market leader in ad spend?
+A) Print
+B) Radio
+C) TV
+D) Digital
+
+Question 3:
+What is the primary advantage of using demographic, behavioral, and geographic data in display advertising on social platforms?
+A) It reduces the cost of ads.
+B) It improves the contextual relevance of ads.
+C) It allows better targeting of potential customers.
+D) It eliminates the need for ad networks.
+
+Question 4:
+Which of the following is NOT a type of display ad mentioned in the transcript?
+A) Banner ad
+B) Pop-up ad
+C) Interstitial ad
+D) Radio ad
+
+Question 5:
+What is the main purpose of dynamic creative optimization in display advertising?
+A) To automate the entire ad buying process
+B) To serve distinct sets of ad creative based on audience data
+C) To reduce the cost of display ads
+D) To ensure ads are displayed on high-traffic websites
+
+Question 6:
+Which of the following metrics is NOT typically tracked in display advertising?
+A) Number of views
+B) Click-through rate
+C) Dwell duration
+D) Audience's income level
+
+Question 7:
+What is the most common payment model used in display advertising?
+A) Cost per click (CPC)
+B) Cost per thousand impressions (CPM)
+C) Cost per acquisition (CPA)
+D) Fixed cost model
+
+Question 8:
+Which of the following best describes the role of ad networks in display advertising?
+A) They create display ads for advertisers.
+B) They act as intermediaries between advertisers and websites.
+C) They sell advertising space directly to consumers.
+D) They manage the financial transactions of ad campaigns.
+
+Question 9:
+According to the transcript, what is one of the key benefits of digital advertising versus traditional advertising?
+A) Higher click-through rates
+B) Access to various types of data and insights
+C) Lower costs
+D) Better quality of ads
+
+Question 10:
+What is the primary goal of display advertising according to the transcript?
+A) To get consumers to purchase a product immediately
+B) To build brand awareness and create consumer demand
+C) To reduce marketing expenses
+D) To replace traditional advertising channels
+
+Question 11:
+Which of the following is an example of contextual advertising mentioned in the transcript?
+A) Using demographic data to target ads on Facebook
+B) Displaying a Marriott ad on a TripAdvisor page about the Museum of Fine Arts
+C) Retargeting ads based on previous website visits
+D) Using pop-up ads on high-traffic websites
+
+Question 12:
+What is the significance of the "fold" in web page design for display ads?
+A) It determines the cost of the ad space.
+B) It is where the ad is most likely to be clicked.
+C) It is the point at which a display ad is considered viewable.
+D) It is the point at which the ad network decides to place an ad.
+
+Question 13:
+What is the click-through rate (CTR) for display ads on Google's Display Network according to the transcript?
+A) 3.17%
+B) 0.46%
+C) 1%
+D) 2.5%
+
+Question 14:
+Which display ad format typically covers all or most of the web page and either disappears after a few seconds or has a close button?
+A) Interstitial ad
+B) Pop-up ad
+C) Floating ad
+D) Wallpaper ad
+
+Question 15:
+In the context of display advertising, what is retargeting?
+A) Showing ads based on a web page's content
+B) Serving ads to users based on previous website visits
+C) Displaying ads at the top of a web page
+D) Using demographic data to target ads on social media
+
+Answer Key:
+1. C) Programmatic ad buying allows more time for ad optimization and improvement.
+2. C) TV
+3. C) It allows better targeting of potential customers.
+4. D) Radio ad
+5. B) To serve distinct sets of ad creative based on audience data
+6. D) Audience's income level
+7. B) Cost per thousand impressions (CPM)
+8. B) They act as intermediaries between advertisers and websites.
+9. B) Access to various types of data and insights
+10. B) To build brand awareness and create consumer demand
+11. B) Displaying a Marriott ad on a TripAdvisor page about the Museum of Fine Arts
+12. C) It is the point at which a display ad is considered viewable.
+13. B) 0.46%
+14. C) Floating ad
+15. B) Serving ads to users based on previous website visits
+
+Topic/Concept Tested and Difficulty Level:
+1. Programmatic ad buying - Intermediate
+2. Historical ad spend trends - Basic
+3. Targeting on social platforms - Intermediate
+4. Types of display ads - Basic
+5. Dynamic creative optimization - Intermediate
+6. Metrics in display advertising - Basic
+7. Payment models - Basic
+8. Role of ad networks - Intermediate
+9. Benefits of digital advertising - Basic
+10. Goals of display advertising - Basic
+11. Contextual advertising - Intermediate
+12. Significance of the "fold" - Advanced
+13. Click-through rate statistics - Basic
+14. Display ad formats - Intermediate
+15. Retargeting - Advanced

@@ -1,0 +1,155 @@
+Question 1:
+Which of the following is a primary reason for the pervasiveness of digital marketing in a marketer's toolkit?
+A) Limited customer targeting capabilities
+B) Inaccurate measurement methods
+C) Advanced customer targeting capabilities
+D) High cost per lead
+
+Question 2:
+What percentage of the global population is connected to the Internet, according to the provided transcript?
+A) 50%
+B) 60%
+C) 70%
+D) 80%
+
+Question 3:
+Which digital capability allows marketers to test multiple versions of content to determine which performs best?
+A) Data Analytics
+B) Predictive Search
+C) Consumer Generated Content
+D) Real-time Adjustment
+
+Question 4:
+In the context of digital marketing, what does CGC stand for?
+A) Consumer Generated Content
+B) Company Generated Content
+C) Cyber Generated Content
+D) Customer Generated Commerce
+
+Question 5:
+According to the transcript, which of the following is an example of a tactic in the GOST hierarchy?
+A) Increasing website traffic by 300%
+B) Creating and maintaining a Twitter account
+C) Encouraging consumer engagement with social media presence
+D) Establishing the company's brand awareness
+
+Question 6:
+The 5 C's framework includes all of the following components EXCEPT:
+A) Customers
+B) Competitors
+C) Collaborators
+D) Communication
+
+Question 7:
+Which stage of the buyer journey involves informing the customer about offerings and encouraging interaction?
+A) Awareness
+B) Interest and Engagement
+C) Acquisition
+D) Retention
+
+Question 8:
+Which component of the marketing mix involves setting the price of a product?
+A) Product
+B) Promotion
+C) Place
+D) Price
+
+Question 9:
+Which of the following is a strategic framework specifically for digital marketing mentioned in the transcript?
+A) SWOT Analysis
+B) PESTEL Analysis
+C) Porter's Five Forces
+D) Digital Strategy Framework
+
+Question 10:
+What is the primary goal of customer retention in the customer marketing cycle?
+A) To create brand awareness
+B) To convert prospects into customers
+C) To encourage existing customers to purchase again
+D) To promote customer advocacy
+
+Question 11:
+Why is it important for digital marketing strategies to be revisited regularly?
+A) To keep up with changing consumer behaviors and technological advancements
+B) To reduce marketing costs
+C) To limit the amount of data collected
+D) To avoid legal issues
+
+Question 12:
+Which of the following is NOT a common tool for company analysis mentioned in the transcript?
+A) SWOT Analysis
+B) Perceptual Maps
+C) PESTEL Analysis
+D) Positioning Maps
+
+Question 13:
+What role does analytics data play in digital marketing, as described in the transcript?
+A) It enhances the visual appeal of marketing content
+B) It helps in creating more efficient marketing outcomes
+C) It limits the interaction with customers
+D) It reduces the need for traditional marketing channels
+
+Question 14:
+Which platform is highlighted as having a significant impact on the evolution of internet search experiences for consumers?
+A) Yahoo
+B) Bing
+C) Google
+D) America Online
+
+Question 15:
+According to the transcript, which of the following is a key factor in the shift of marketing budgets towards digital advertising?
+A) Decline in TV viewership
+B) Increased costs of traditional advertising
+C) Higher consumer interest in digital channels
+D) Limited reach of traditional advertising methods
+
+Answer Key with Explanations:
+1. C) Advanced customer targeting capabilities - Digital marketing allows for precise targeting of customer segments.
+2. B) 60% - The transcript states that 60% of the global population is connected to the Internet.
+3. A) Data Analytics - Data analytics allows marketers to test different versions of content.
+4. A) Consumer Generated Content - CGC stands for Consumer Generated Content.
+5. B) Creating and maintaining a Twitter account - This is a specific action contributing to achieving a goal.
+6. D) Communication - The 5 C’s are Customers, Competitors, Collaborators, Company, and Context.
+7. B) Interest and Engagement - This stage involves informing and encouraging interaction with customers.
+8. D) Price - Price is a component of the marketing mix that involves setting the product price.
+9. D) Digital Strategy Framework - This framework is specifically mentioned for digital marketing.
+10. C) To encourage existing customers to purchase again - The goal of customer retention is repeat purchases.
+11. A) To keep up with changing consumer behaviors and technological advancements - Revisiting strategies helps adapt to changes.
+12. C) PESTEL Analysis - PESTEL is used for macro-level context, not company-specific analysis.
+13. B) It helps in creating more efficient marketing outcomes - Analytics data informs and optimizes marketing activities.
+14. C) Google - Google significantly improved the internet search experience with better results.
+15. C) Higher consumer interest in digital channels - Consumers are increasingly interested in digital channels, prompting budget shifts.
+
+Topic/Concept Tested:
+1) Concept understanding - Digital marketing capabilities
+2) Concept understanding - Global internet connectivity
+3) Application - Digital marketing capabilities
+4) Concept understanding - Terminology
+5) Application - GOST hierarchy
+6) Concept understanding - 5 C's framework
+7) Application - Buyer journey stages
+8) Concept understanding - Marketing mix
+9) Concept understanding - Digital marketing frameworks
+10) Application - Customer marketing cycle
+11) Evaluation - Strategy revisits
+12) Concept understanding - Company analysis tools
+13) Analysis - Role of analytics
+14) Concept understanding - Evolution of internet search
+15) Analysis - Marketing budget shifts
+
+Difficulty Level:
+1. Basic
+2. Basic
+3. Intermediate
+4. Basic
+5. Intermediate
+6. Basic
+7. Intermediate
+8. Basic
+9. Basic
+10. Intermediate
+11. Advanced
+12. Basic
+13. Advanced
+14. Basic
+15. Advanced
